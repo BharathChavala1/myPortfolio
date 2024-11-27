@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.4e712234.chunk.css",
-    "main.js": "/static/js/main.5aff1b67.chunk.js",
-    "main.js.map": "/static/js/main.5aff1b67.chunk.js.map",
+    "main.js": "/static/js/main.f294fb24.chunk.js",
+    "main.js.map": "/static/js/main.f294fb24.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8544322c.js",
     "runtime-main.js.map": "/static/js/runtime-main.8544322c.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
-    "static/js/2.f7fdf5bf.chunk.js": "/static/js/2.f7fdf5bf.chunk.js",
-    "static/js/2.f7fdf5bf.chunk.js.map": "/static/js/2.f7fdf5bf.chunk.js.map",
+    "static/js/2.1e142217.chunk.js": "/static/js/2.1e142217.chunk.js",
+    "static/js/2.1e142217.chunk.js.map": "/static/js/2.1e142217.chunk.js.map",
     "static/js/3.dc84d651.chunk.js": "/static/js/3.dc84d651.chunk.js",
     "static/js/3.dc84d651.chunk.js.map": "/static/js/3.dc84d651.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
     "static/css/main.4e712234.chunk.css.map": "/static/css/main.4e712234.chunk.css.map",
-    "static/js/2.f7fdf5bf.chunk.js.LICENSE.txt": "/static/js/2.f7fdf5bf.chunk.js.LICENSE.txt",
+    "static/js/2.1e142217.chunk.js.LICENSE.txt": "/static/js/2.1e142217.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/BharathChavala.fa2d83db.JPG": "/static/media/BharathChavala.fa2d83db.JPG",
     "static/media/Bharath_Chavala_Software_Engineer.8f9b4012.pdf": "/static/media/Bharath_Chavala_Software_Engineer.8f9b4012.pdf",
@@ -161,8 +161,8 @@
   "entrypoints": [
     "static/js/runtime-main.8544322c.js",
     "static/css/2.19627560.chunk.css",
-    "static/js/2.f7fdf5bf.chunk.js",
+    "static/js/2.1e142217.chunk.js",
     "static/css/main.4e712234.chunk.css",
-    "static/js/main.5aff1b67.chunk.js"
+    "static/js/main.f294fb24.chunk.js"
   ]
 }
