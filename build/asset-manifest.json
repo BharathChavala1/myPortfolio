@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.b416b683.chunk.css",
-    "main.js": "/myPortfolio/static/js/main.c4cf71e7.chunk.js",
-    "main.js.map": "/myPortfolio/static/js/main.c4cf71e7.chunk.js.map",
-    "runtime-main.js": "/myPortfolio/static/js/runtime-main.d8e1690a.js",
-    "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.d8e1690a.js.map",
+    "main.js": "/myPortfolio/static/js/main.a2b5c4c2.chunk.js",
+    "main.js.map": "/myPortfolio/static/js/main.a2b5c4c2.chunk.js.map",
+    "runtime-main.js": "/myPortfolio/static/js/runtime-main.c4be9e0b.js",
+    "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.c4be9e0b.js.map",
     "static/css/2.ea11e86b.chunk.css": "/myPortfolio/static/css/2.ea11e86b.chunk.css",
-    "static/js/2.8da10df9.chunk.js": "/myPortfolio/static/js/2.8da10df9.chunk.js",
-    "static/js/2.8da10df9.chunk.js.map": "/myPortfolio/static/js/2.8da10df9.chunk.js.map",
-    "static/js/3.a044e014.chunk.js": "/myPortfolio/static/js/3.a044e014.chunk.js",
-    "static/js/3.a044e014.chunk.js.map": "/myPortfolio/static/js/3.a044e014.chunk.js.map",
+    "static/js/2.1e142217.chunk.js": "/myPortfolio/static/js/2.1e142217.chunk.js",
+    "static/js/2.1e142217.chunk.js.map": "/myPortfolio/static/js/2.1e142217.chunk.js.map",
+    "static/js/3.dc84d651.chunk.js": "/myPortfolio/static/js/3.dc84d651.chunk.js",
+    "static/js/3.dc84d651.chunk.js.map": "/myPortfolio/static/js/3.dc84d651.chunk.js.map",
     "index.html": "/myPortfolio/index.html",
     "static/css/2.ea11e86b.chunk.css.map": "/myPortfolio/static/css/2.ea11e86b.chunk.css.map",
     "static/css/main.b416b683.chunk.css.map": "/myPortfolio/static/css/main.b416b683.chunk.css.map",
-    "static/js/2.8da10df9.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.8da10df9.chunk.js.LICENSE.txt",
+    "static/js/2.1e142217.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.1e142217.chunk.js.LICENSE.txt",
     "static/media/index.css": "/myPortfolio/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/BharathChavala.fa2d83db.JPG": "/myPortfolio/static/media/BharathChavala.fa2d83db.JPG",
     "static/media/Bharath_Chavala_Software_Engineer.8f9b4012.pdf": "/myPortfolio/static/media/Bharath_Chavala_Software_Engineer.8f9b4012.pdf",
@@ -159,10 +159,10 @@
     "static/media/yellowTheme-girl.641f7b0b.svg": "/myPortfolio/static/media/yellowTheme-girl.641f7b0b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8e1690a.js",
+    "static/js/runtime-main.c4be9e0b.js",
     "static/css/2.ea11e86b.chunk.css",
-    "static/js/2.8da10df9.chunk.js",
+    "static/js/2.1e142217.chunk.js",
     "static/css/main.b416b683.chunk.css",
-    "static/js/main.c4cf71e7.chunk.js"
+    "static/js/main.a2b5c4c2.chunk.js"
   ]
 }
