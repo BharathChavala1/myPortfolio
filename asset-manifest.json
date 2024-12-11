@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.b416b683.chunk.css",
-    "main.js": "/myPortfolio/static/js/main.36b968c1.chunk.js",
-    "main.js.map": "/myPortfolio/static/js/main.36b968c1.chunk.js.map",
+    "main.js": "/myPortfolio/static/js/main.4c4c60bd.chunk.js",
+    "main.js.map": "/myPortfolio/static/js/main.4c4c60bd.chunk.js.map",
     "runtime-main.js": "/myPortfolio/static/js/runtime-main.c4be9e0b.js",
     "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.c4be9e0b.js.map",
     "static/css/2.ea11e86b.chunk.css": "/myPortfolio/static/css/2.ea11e86b.chunk.css",
@@ -16,7 +16,7 @@
     "static/js/2.1e142217.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.1e142217.chunk.js.LICENSE.txt",
     "static/media/index.css": "/myPortfolio/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/BharathChavala.fa2d83db.JPG": "/myPortfolio/static/media/BharathChavala.fa2d83db.JPG",
-    "static/media/Bharath_Chavala_Software_Engineer.8f9b4012.pdf": "/myPortfolio/static/media/Bharath_Chavala_Software_Engineer.8f9b4012.pdf",
+    "static/media/Bharath_Chavala_Software_Engineer.7720763e.pdf": "/myPortfolio/static/media/Bharath_Chavala_Software_Engineer.7720763e.pdf",
     "static/media/adobe-xd.a6dca99d.svg": "/myPortfolio/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/myPortfolio/static/media/adobeaudition.afa937d5.svg",
     "static/media/after-effects.3c076652.svg": "/myPortfolio/static/media/after-effects.3c076652.svg",
@@ -163,6 +163,6 @@
     "static/css/2.ea11e86b.chunk.css",
     "static/js/2.1e142217.chunk.js",
     "static/css/main.b416b683.chunk.css",
-    "static/js/main.36b968c1.chunk.js"
+    "static/js/main.4c4c60bd.chunk.js"
   ]
 }
