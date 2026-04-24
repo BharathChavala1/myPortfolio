@@ -1,0 +1,26 @@
+# Ignore source maps (for debugging, not needed in production)
+*.map
+
+# Ignore the entire node_modules folder
+node_modules/
+
+# Ignore system-generated files (macOS)
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore temporary build files created by editors or tools
+*.tmp
+*.swp
+*.bak
+
+# Ignore optional debug files from the build folder
+build/static/css/*.map
+build/static/js/*.map
+
+# Ignore environment files (if any exist)
+.env
+.env.local
+.env.*.local
+node_modules/
